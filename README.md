@@ -1,8 +1,8 @@
 Calculadora Fiap
 
--ListView no histórico da calculadora.
+- ListView no histórico da calculadora.
 
--Login com Firebase
+- Login com Firebase
 
 - Usuario para teste caso não queira registrar: teste@fiap.com.br senha Pedro123
 
