@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039102426536",
+    "firebase_url": "https://find-the-spy-app-default-rtdb.firebaseio.com",
+    "project_id": "find-the-spy-app",
+    "storage_bucket": "find-the-spy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039102426536:android:218695dc22d0354fabf19d",
+        "android_client_info": {
+          "package_name": "com.findthespy.find_the_spy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039102426536-vc21b9gptq9s94o1tjhr3oji8kti6ne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzKSmv1oji-M3it9x9Td4ukT9zIMbTAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039102426536-vc21b9gptq9s94o1tjhr3oji8kti6ne6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
